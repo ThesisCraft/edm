@@ -75,6 +75,8 @@ header .inner #gnb li a:hover {
 }
 /* 비주얼 스타일 */
 
+/* 비주얼 스타일 */
+
 figure {
     width: 100%;
     height: calc(100vh - 120px);
